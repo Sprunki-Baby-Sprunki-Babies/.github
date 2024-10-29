@@ -1,0 +1,18 @@
+{
+  "name": "sprunki-babies",
+  "version": "1.0.0",
+  "description": "A fun music creation game featuring baby versions of Sprunki characters.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
