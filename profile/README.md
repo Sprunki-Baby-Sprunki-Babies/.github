@@ -2,6 +2,8 @@
 
 ## [Play Incredibox Sprunki Babies Now!](https://tinyurl.com/48nf9amy)
 
+## [Play Sprunki Official!](https://github.com/Sprunki-Incredibox)
+
 Welcome to **Sprunki Babies**, a unique musical adventure and extension of the popular **Sprunki Incredibox**! This fan-made mod offers a playful twist on music creation, with baby versions of Sprunki characters who bring their own adorable sounds to the game. With **Sprunki Babies**, unleash your creativity and explore endless musical possibilities with ease and fun!
 
 ![sprunki-baby-game](https://github.com/user-attachments/assets/518a97d3-f37c-45a1-893f-516bfac06fbc)
